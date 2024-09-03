@@ -6,6 +6,7 @@ This package offers a concise introduction to Kotlin (using JupyterLab), focusin
 
 - [Introduction](01-intro.ipynb)
 - [Functions](02-functions.ipynb)
+- [Lambdas](03-lambdas.ipynb)
 - [TBD]
 
 
@@ -65,6 +66,10 @@ To get started with this package, follow these steps:
 ## Note
 
 This package is still under development. New features and improvements will be added over time.
+
+## Useful References
+
+ - [Kotlinlang](https://kotlinlang.org/docs/home.html)
 
 ## License
 
