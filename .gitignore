@@ -1,0 +1,69 @@
+# Kotlin build artifacts
+/build/
+/out/
+/.idea/
+/*.iml
+/*.gradle
+/.gradle/
+/*.jar
+/*.war
+/*.class
+
+# JupyterLab related files
+/.ipynb_checkpoints/
+
+# Python-related files
+__pycache__/
+/*.pyc
+/*.pyo
+/*.pyd
+/.venv/
+*.egg-info/
+
+# Logs
+*.log
+
+# IDE-specific files
+/.vscode/
+/*.suo
+/*.user
+/*.userosscache
+/*.sln
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# JupyterLab cache
+/.cache/
+/*.jupyter
+
+# Other temporary files
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+*.coverage
+
+# Miscellaneous
+*.tgz
+*.gz
+*.zip
+*.rar
+*.7z
+
+# Local configuration files
+*.local
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore downloads content
+temp/*
