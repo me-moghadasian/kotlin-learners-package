@@ -5,8 +5,9 @@
 This package offers a concise introduction to Kotlin (using JupyterLab), focusing only on the essential concepts and skills. It covers the fundamental topics necessary for understanding and practicing (or reviewing) Kotlin, including:
 
 - [Introduction](01-intro.ipynb)
-- [Functions](02-functions.ipynb)
-- [Lambdas](03-lambdas.ipynb)
+- [Function](02-function.ipynb)
+- [Lambda](03-lambda.ipynb)
+- [Collections](04-collections.ipynb)
 - [TBD]
 
 
