@@ -8,6 +8,7 @@ This package offers a concise introduction to Kotlin (using JupyterLab), focusin
 - [Functions](02-functions.ipynb)
 - [Lambdas](03-lambdas.ipynb)
 - [Collections](04-collections.ipynb)
+- [Objects](05-objects.ipynb)
 - [TBD]
 
 
