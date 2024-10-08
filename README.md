@@ -13,6 +13,7 @@ This package offers a concise introduction to Kotlin (using JupyterLab), focusin
 - [OOP: Introduction](07-oop-intro.ipynb)
 - [Useful Kotlin Classes](08-useful-classes.ipynb)
 - [OOP: interfaces](09-oop-interfaces.ipynb)
+- [Equality check, 'is' and 'as' operators](10-equal-is-as.ipynb)
 - [TBD]
 
 
