@@ -12,6 +12,7 @@ This package offers a concise introduction to Kotlin (using JupyterLab), focusin
 - [Classes](06-classes.ipynb)
 - [OOP: Introduction](07-oop-intro.ipynb)
 - [Useful Kotlin Classes](08-useful-classes.ipynb)
+- [OOP: interfaces](09-oop-interfaces.ipynb)
 - [TBD]
 
 
