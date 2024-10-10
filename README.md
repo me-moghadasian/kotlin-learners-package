@@ -13,8 +13,10 @@ This package offers a concise introduction to Kotlin (using JupyterLab), focusin
 - [OOP: Introduction](07-oop-intro.ipynb)
 - [Useful Kotlin Classes](08-useful-classes.ipynb)
 - [OOP: interfaces](09-oop-interfaces.ipynb)
-- [Equality check, 'is' and 'as' operators](10-equal-is-as.ipynb)
-- [Asynchronous programming introduction](11-async-intro.ipynb)
+- [Equality check, `is` and `as` operators](10-equal-is-as.ipynb)
+- [Async/Concurrent: Introduction](11-async-concurrent-intro.ipynb)
+- [Async/Concurrent: Basics](12-async-concurrent-basics.ipynb)
+- [Async/Concurrent: Coroutine Context](13-async-concurrent-context.ipynb)
 - [TBD]
 
 
