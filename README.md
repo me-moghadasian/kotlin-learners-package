@@ -81,6 +81,7 @@ This package is still under development. New features and improvements will be a
 ## Useful References
 
  - [Kotlinlang](https://kotlinlang.org/docs/home.html)
+ - [An article by Jim Steinberger](https://www.baeldung.com/kotlin/coroutines-runblocking-coroutinescope)
 
 ## License
 
