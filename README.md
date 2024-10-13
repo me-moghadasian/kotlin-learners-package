@@ -19,6 +19,7 @@ This package offers a concise introduction to Kotlin (using JupyterLab), focusin
 - [Async/Concurrent: Coroutine Context](13-async-concurrent-context.ipynb)
 - [Async/Concurrent: Cooperative Cancellation](14-async-concurrent-cancellation.ipynb)
 - [Async/Concurrent: Best Practices](15-async-concurrent-best.ipynb)
+- [Generics](16-generics-intro.ipynb)
 - [TBD]
 
 
