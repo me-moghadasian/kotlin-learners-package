@@ -18,6 +18,7 @@ This package offers a concise introduction to Kotlin (using JupyterLab), focusin
 - [Async/Concurrent: Basics](12-async-concurrent-basics.ipynb)
 - [Async/Concurrent: Coroutine Context](13-async-concurrent-context.ipynb)
 - [Async/Concurrent: Cooperative Cancellation](14-async-concurrent-cancellation.ipynb)
+- [Async/Concurrent: Best Practices](15-async-concurrent-best.ipynb)
 - [TBD]
 
 
@@ -30,10 +31,15 @@ This project is designed for **intermediate-level** developers who are looking t
 
 Please note that this package is *actively being modified and updated*. We are continuously working to improve and expand the content based on feedback and new developments in [Kotlin](https://kotlinlang.org/). New features, topics, and enhancements will be added over time.
 
-## Features [TBD]
+## Features
 
-- **Introduction**: ...
-- **And More...**
+- **Introduction** and **Basics**
+- **Collections**
+- **Object** and **Classes**
+- **Functions** and **Lambdas**
+- **OOP**
+- **Async/Concurrent** programming
+- and more...
 
 To get started with this package, follow these steps:
 
