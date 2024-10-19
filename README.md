@@ -21,6 +21,7 @@ This package offers a concise introduction to Kotlin (using JupyterLab), focusin
 - [Async/Concurrent: Best Practices](15-async-concurrent-best.ipynb)
 - [Generics](16-generics-intro.ipynb)
 - [Flows](17-flows.ipynb)
+- [Channels](18-channels.ipynb)
 - [TBD]
 
 
