@@ -22,6 +22,7 @@ This package offers a concise introduction to Kotlin (using JupyterLab), focusin
 - [Generics](16-generics-intro.ipynb)
 - [Flows](17-flows.ipynb)
 - [Channels](18-channels.ipynb)
+- [StateFlows](19-stateflows.ipynb)
 - [TBD]
 
 
